@@ -1,7 +1,7 @@
 ---
 title: Gogs
 date: 2018-04-12 11:30:17
-categories: "技术"
+categories: "Gogs"
 tags: ["Gogs"]
 ---
 

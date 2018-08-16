@@ -1,7 +1,7 @@
 ---
 title: Hexo+Github搭建个人博客
 date: 2018-04-12 14:21:59
-categories: "技术"
+categories: "Hexo"
 tags: ["hexo","github"]
 ---
 

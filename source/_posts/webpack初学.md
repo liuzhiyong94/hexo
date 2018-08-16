@@ -1,7 +1,7 @@
 ---
 title: webpack初学
 date: 2018-04-11 15:46:01
-categories: "技术"
+categories: "Webpack"
 tags: ["webpack"]
 ---
 
