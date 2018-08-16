@@ -381,4 +381,4 @@ npm run dev
 ![image](/images/20180411/1523439115320.png)
 
 
-More Info:[Github](https://github.com/imlzyong/webpack)
+More Info:[Github](https://github.com/liuzhiyong94/webpack)

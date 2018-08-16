@@ -185,6 +185,6 @@ ssh -T git@github.com
 
 [next 主题](http://theme-next.iissnan.com/)
 
-[项目源码](https://github.com/imlzyong/hexo)
+[项目源码](https://github.com/liuzhiyong94/hexo)
 
-[部署代码](https://github.com/imlzyong/imlzyong.github.io)
+[部署代码](https://github.com/liuzhiyong94/liuzhiyong94.github.io)
