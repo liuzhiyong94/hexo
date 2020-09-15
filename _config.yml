@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 刘志勇
+title: My Blog
 subtitle:
 description: 博学之,审问之,慎思之,明辨之,笃行之
 keywords:
@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://lzyong.cn
+url: imzhiyong.cn
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -87,5 +87,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/liuzhiyong94/liuzhiyong94.github.io.git
+  repo: git@github.com:liuzhiyong94/liuzhiyong94.github.io.git
   branch: master
+  
+
