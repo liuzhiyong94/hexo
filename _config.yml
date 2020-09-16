@@ -87,8 +87,12 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:liuzhiyong94/liuzhiyong94.github.io.git
-  branch: master
+  # repo: git@github.com:liuzhiyong94/liuzhiyong94.github.io.git
+  # repo: git@e.coding.net:liuzhiyong94/myblog/myblog.git
+  # branch: master
+  repo: 
+    github: git@github.com:liuzhiyong94/liuzhiyong94.github.io.git,master
+    coding: git@e.coding.net:liuzhiyong94/myblog/myblog.git,master
 
 
 search:
