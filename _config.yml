@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: My Blog
+title: 我的笔记
 subtitle:
-description: 博学之,审问之,慎思之,明辨之,笃行之
+description: 武汉华创欣网科技有限公司
 keywords:
 author: 刘志勇
 language: zh-Hans
-timezone:
+# timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -89,5 +89,12 @@ deploy:
   type: git
   repo: git@github.com:liuzhiyong94/liuzhiyong94.github.io.git
   branch: master
+
+
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
   
 
