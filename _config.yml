@@ -13,7 +13,8 @@ language: zh-Hans
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://in.imzhiyong.cn
+# url: ex.imzhiyong.cn  # github
+url: im.imzhiyong.cn   # coding
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
